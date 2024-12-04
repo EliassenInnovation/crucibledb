@@ -1,0 +1,58 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ıŒä‰
+a
+java:S3252+"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(™ò²$
+g
+java:S3252,"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(÷…«¨øÿÿÿÿ
+g
+java:S3252N"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(ØÁ¦òüÿÿÿÿ
+b
+java:S3252O"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".( ¼ìè
+b
+java:S3252y"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(äé¬Í
+h
+java:S3252ˆ"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(ƒÏÒÑüÿÿÿÿ
+b
+java:S3252³"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(çê
+h
+java:S3252Ã"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(ÙÒï×ıÿÿÿÿ
+i	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¸ã“üÿÿÿÿ
+h
+java:S3252ô"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(¶ä´ˆşÿÿÿÿ
+U
+java:S1117¤"9Rename "query" which hides the field declared at line 26.(Ç¸ÏÚüÿÿÿÿ
+h
+java:S3252³"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(ÙÒï×ıÿÿÿÿ
+E
+java:S1481Â"/Remove this unused "columnName" local variable.(¯Ë I
+G
+java:S1481Ã"+Remove this unused "object" local variable.(„Œ·Øúÿÿÿÿ
+D	java:S108Û")Either remove or fill this block of code.(©«ÈÄûÿÿÿÿ
+B
+java:S1481à"&Remove this unused "x" local variable.(·¹É²úÿÿÿÿ
+b
+java:S3252ë"LUse static access with "com.Lightwell.common.helpers.Logger" for "logError".(¬éÉa
+p
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ğ­Ó
+‡
+java:S1319È"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Íµ¯
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êì¶üÿÿÿÿ
+Œ
+java:S1319Š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘ò€ºûÿÿÿÿ
+Q
+java:S1141Ù"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„Âùùÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŠÆÉùÿÿÿÿ
+a
+java:S1301;"KReplace this "switch" statement by "if" statements to increase readability.(ŞŞ¨§
+x
+java:S1488Í"bImmediately return this expression instead of assigning it to the temporary variable "resultSets".(ïÚ
+x
+java:S1488•"bImmediately return this expression instead of assigning it to the temporary variable "resultSets".(ïÚ
+x
+java:S1488‹"bImmediately return this expression instead of assigning it to the temporary variable "resultSets".(ïÚ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¯€˜úÿÿÿÿ
+^
+java:S3973Â"GUse indentation to denote the code conditionally executed by this "if".(¶Èò
