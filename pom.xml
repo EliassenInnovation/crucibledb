@@ -5,17 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <repositories>
         <repository>
-            <id>central</id>
-            <name>Central Repository</name>
-            <url>https://repo.maven.apache.org/maven2</url>
-            <layout>default</layout>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
-        <repository>
-            <id>Lightwell.MVN</id>
-            <url>https://pkgs.dev.azure.com/lightwellinc-clouddev/_packaging/Lightwell.MVN/maven/v1</url>
+            <id>db</id>
+            <url>https://maven.pkg.github.com/EliassenInnovation/crucibledb</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -27,13 +18,13 @@
     <distributionManagement>
         <repository>
             <uniqueVersion>false</uniqueVersion>
-            <id>Lightwell.MVN</id>
-            <url>https://pkgs.dev.azure.com/lightwellinc-clouddev/_packaging/Lightwell.MVN/maven/v1</url>
+            <id>db</id>
+            <url>https://maven.pkg.github.com/EliassenInnovation/crucibledb</url>
         </repository>
     </distributionManagement>
-    <groupId>com.lightwell.dbtesting</groupId>
-    <artifactId>lightwell-db-testing</artifactId>
-    <description>Lightwell's db testing framework</description>
+    <groupId>com.eliassen.crucible</groupId>
+    <artifactId>db</artifactId>
+    <description>crucible db testing framework</description>
     <version>0.6.7</version>
     <dependencies>
         <dependency>
