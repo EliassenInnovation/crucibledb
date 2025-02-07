@@ -1,6 +1,6 @@
 package com.Lightwell.dbtesting.common.stepDefinitions;
 
-import com.Lightwell.common.helpers.SystemHelper;
+import com.eliassen.crucible.common.helpers.SystemHelper;
 import com.Lightwell.dbtesting.common.helpers.DBFileHelper;
 import com.Lightwell.dbtesting.common.helpers.DBJsonHelper;
 import com.Lightwell.dbtesting.common.helpers.DriverHelper;

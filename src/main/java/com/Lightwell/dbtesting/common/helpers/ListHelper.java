@@ -1,6 +1,6 @@
 package com.Lightwell.dbtesting.common.helpers;
 
-import com.Lightwell.common.helpers.Functions;
+import com.eliassen.crucible.common.helpers.Functions;
 import com.Lightwell.dbtesting.common.objects.ResultRow;
 import com.Lightwell.dbtesting.common.objects.Results;
 

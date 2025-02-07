@@ -1,6 +1,6 @@
 package com.Lightwell.dbtesting.common.helpers;
 
-import com.Lightwell.common.helpers.FileHelper;
+import com.eliassen.crucible.common.helpers.FileHelper;
 
 public class DBFileHelper extends FileHelper
 {

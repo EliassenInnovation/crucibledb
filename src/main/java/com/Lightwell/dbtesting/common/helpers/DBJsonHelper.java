@@ -1,8 +1,8 @@
 package com.Lightwell.dbtesting.common.helpers;
 
-import com.Lightwell.common.helpers.JsonHelper;
-import com.Lightwell.common.helpers.SystemHelper;
-import com.Lightwell.common.helpers.UserHelper;
+import com.eliassen.crucible.common.helpers.JsonHelper;
+import com.eliassen.crucible.common.helpers.SystemHelper;
+import com.eliassen.crucible.common.helpers.UserHelper;
 import com.Lightwell.dbtesting.common.main.CentralCommand;
 import com.Lightwell.dbtesting.common.main.DBObject;
 import com.Lightwell.dbtesting.common.objects.ConnectionString;
