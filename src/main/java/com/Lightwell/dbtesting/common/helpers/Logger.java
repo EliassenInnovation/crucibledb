@@ -2,7 +2,7 @@ package com.Lightwell.dbtesting.common.helpers;
 
 import com.Lightwell.dbtesting.common.main.CentralCommand;
 
-public class Logger extends com.Lightwell.common.helpers.Logger
+public class Logger extends com.eliassen.crucible.common.helpers.Logger
 {
     public Logger()
     {

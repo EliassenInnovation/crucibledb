@@ -1,7 +1,7 @@
 package com.Lightwell.dbtesting.common.stepDefinitions;
 
-import com.Lightwell.common.helpers.Logger;
-import com.Lightwell.common.helpers.SystemHelper;
+import com.eliassen.crucible.common.helpers.Logger;
+import com.eliassen.crucible.common.helpers.SystemHelper;
 import com.Lightwell.dbtesting.common.main.CentralCommand;
 import com.Lightwell.dbtesting.common.objects.Results;
 import io.cucumber.java.Scenario;

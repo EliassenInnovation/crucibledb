@@ -1,6 +1,6 @@
 package com.Lightwell.dbtesting.common.helpers;
 
-import com.Lightwell.common.helpers.JsonHelper;
+import com.eliassen.crucible.common.helpers.JsonHelper;
 import org.json.JSONObject;
 
 import java.io.FileNotFoundException;
